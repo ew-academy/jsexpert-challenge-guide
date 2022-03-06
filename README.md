@@ -37,7 +37,7 @@ Então você pode focar em aplicar as estruturas e conceitos vistos em aula num 
 
   Quando um desafio é liberado, ele tem um prazo (mencionado no README do próprio desafio). Concluindo o desafio dentro do prazo estipulado, você tem o direito a um code review feito diretamente pelo Community Manager da EW.IT, ressaltando seus pontos fortes e possíveis pontos de melhoria, como o exemplo a seguir de um dos nossos primeiros challengers:
 
-### Como eu submeto um desafio?
+### 4. Como eu submeto um desafio?
 
 Após escolher um desafio para fazer, crie um `fork` do repositório do desafio no github, faça a sua implementação e mande o link do seu projeto lá no nosso canal `#-desafios-jsexpert` na nossa comunidade do discord!
 
@@ -46,6 +46,8 @@ Para ter o code review personalizado a submissão precisa ser dentro do prazo pr
 **🚨 IMPORTANTE:** pra a correção e o feedback personalizado, garanta que o seu repositório no GitHub **permite a criação de issues**
 
 > Dica do Wells: Na página do próprio repo mesmo lá no GitHub é só **marcar o checkbox de issues** lá em `Settings > Features`. o/
+
+# ---- em draft ainda ----
 
 ### Por onde começo?
 
