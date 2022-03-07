@@ -2,9 +2,9 @@
 
 Bem-vindo(a) ao guia rápido de acompanhamento e resolução dos DESAFIOS JS EXPERT!
 
-## Tudo que você precisa saber sobre os desafios
+## Tudo que você precisa saber sobre os DESAFIOS JS EXPERT
 
-### 1. O que são os DESAFIOS JS EXPERT?
+### 1. O que são os desafios?
 
 Os Desafios JS Expert são desafios de código elaborados para te ajudar a fixar o conteúdo visto em aula de maneira dinâmica e - adivinha só - desafiadora!
 
@@ -27,7 +27,10 @@ Então você pode focar em aplicar as estruturas e conceitos vistos em aula num 
 - **Ganhe levels como um `@Challenger`!**
 
   Na nossa comunidade do discord, pode reparar que existem os `@Challengers`, alunos que completaram os desafios anteriores. **Cada desafio concluído no prazo equivale a 1 level up** na comunidade, então quanto maior o nível do `@Challenger`, mais desafios ele fez!
-  Periodicamente diferentes partes da EW.IT interagem com os challengers para trocar uma idéia, organizar lives, entender um pouco mais do momento profissional deles e de como está sendo o feedback do desafio no geral, além de termos o contato mais próximo devido aos **Code reviews personalizados** (mais detalhes sobre isso a seguir).
+
+- **Interação com a equipe da EW.IT**
+
+  Periodicamente diferentes partes da EW.IT interagem com os `@Challengers` para trocar uma idéia, organizar lives, entender um pouco mais do momento profissional deles e de como está sendo o feedback dos desafios no geral; além de termos o contato mais próximo devido aos **Code reviews personalizados** (mais detalhes sobre isso a seguir).
 
 - **Interação com a comunidade**
 
@@ -41,23 +44,31 @@ Então você pode focar em aplicar as estruturas e conceitos vistos em aula num 
 
 Após escolher um desafio para fazer, crie um `fork` do repositório do desafio no github, faça a sua implementação e mande o link do seu projeto lá no nosso canal `#-desafios-jsexpert` na nossa comunidade do discord!
 
-Para ter o code review personalizado a submissão precisa ser dentro do prazo proposto, mas caso você faça o desafio fora do prazo pode mandar lá também que a gente fica feliz também :slight_smile:
+Para ter o code review personalizado a submissão precisa ser dentro do prazo proposto, mas caso você faça o desafio fora do prazo pode mandar lá também que nós ficamos felizes e você mostra o seu empenho! 🚀
 
 **🚨 IMPORTANTE:** pra a correção e o feedback personalizado, garanta que o seu repositório no GitHub **permite a criação de issues**
 
 > Dica do Wells: Na página do próprio repo mesmo lá no GitHub é só **marcar o checkbox de issues** lá em `Settings > Features`. o/
 
-# ---- em draft ainda ----
+### 5. Como obter ajuda?
 
-### Por onde começo?
+Todo o ciclo de vida dos desafios acontece lá no discord, majoritariamente no canal `#-desafios-jsexpert`, então pode ficar a vontade para:
 
-Gradualmente, mas desafios individuais
+- Mandar suas dúvidas lá no canal, já ajudando inclusive outras pessoas que poderiam ter essa dúvida no futuro!
+- Mandar mensagens ao nosso Community Manager `@WellsSA` - que por sinal é quem cria os desafios, então dicas importantes podem surgir.
+- Ou até mesmo contatar os `@Challengers`, que com certeza terão bastante propriedade pra ajudar lá no discord também!
 
-### Onde procurar ajuda?
+### 6. Por onde eu começo?
+
+Cada desafio **funciona individualmente** e é atrelado a um módulo, então caso queira começar a partir do desafio mais recente para ter as correções no prazo ou mesmo começar do desafio de algum módulo que mais tenha te chamado atenção, fique à vontade pra fazer na ordem que desejar, com o tempo que tiver disponível! 😄
+
+> Dica do Wells: Vale lembrar que mesmo os desafios sendo individuais, eles vão progredindo conforme o curso progride também, então fazer os desafios gradualmente e em ordem conforme você faz o curso pode ser uma boa pedida, até pra você sentir como foi a evolução do processo de criação desses desafios com o passar do tempo. :)
 
 ## Acompanhamento
 
 Aqui você tem acesso à lista atualizada de desafios e algumas dicas de qual módulo estudar
+
+# ---- em draft ainda ----
 
 - [ ] DESAFIO 01 - PokeAPI
 
