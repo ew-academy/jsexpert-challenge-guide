@@ -100,7 +100,7 @@ Cada desafio **funciona individualmente** e é atrelado a um módulo, então cas
 
 > Dica do Wells: Vale lembrar que mesmo os desafios sendo individuais, eles vão progredindo conforme o curso progride também, então resolver eles gradualmente e em ordem conforme você acompanha o curso pode ser uma boa pedida, até pra você sentir como foi a evolução do processo de criação desses desafios com o passar do tempo. :)
 
-[ghpagesurl]: https://wellssa.github.io/jsexpert-challenge-guide/
+[ghpagesurl]: https://training-erickwendel.github.io/jsexpert-challenge-guide/
 
 <!--- Challenge 01 stuff -->
 
