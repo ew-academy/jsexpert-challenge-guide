@@ -1,4 +1,4 @@
-[ghpagesurl]: https://training-erickwendel.github.io/jsexpert-challenge-guide/
+[ghpagesurl]: https://wellssa.github.io/jsexpert-challenge-guide/
 [studentreview]: https://github.com/ThaSMorato/jsexpert-exercicio01-pokeapi/issues/1
 [studentreview2]: https://github.com/ThaSMorato/jsexpert-challenge03-terminal/issues/1
 
