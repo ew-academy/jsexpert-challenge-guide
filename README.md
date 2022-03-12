@@ -98,7 +98,7 @@ Todo o ciclo de vida dos desafios acontece lá no discord, majoritariamente no c
 
 Cada desafio **funciona individualmente** e é atrelado a um módulo, então caso queira começar a partir do desafio mais recente para ter as correções no prazo ou mesmo começar do desafio de algum módulo que mais tenha te chamado atenção, fique à vontade pra fazer na ordem que desejar, com o tempo que tiver disponível! 😄
 
-> Dica do Wells: Vale lembrar que mesmo os desafios sendo individuais, eles vão progredindo conforme o curso progride também, então fazer os desafios gradualmente e em ordem conforme você faz o curso pode ser uma boa pedida, até pra você sentir como foi a evolução do processo de criação desses desafios com o passar do tempo. :)
+> Dica do Wells: Vale lembrar que mesmo os desafios sendo individuais, eles vão progredindo conforme o curso progride também, então resolver eles gradualmente e em ordem conforme você acompanha o curso pode ser uma boa pedida, até pra você sentir como foi a evolução do processo de criação desses desafios com o passar do tempo. :)
 
 [ghpagesurl]: https://wellssa.github.io/jsexpert-challenge-guide/
 
