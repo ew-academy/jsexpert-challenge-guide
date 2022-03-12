@@ -2,6 +2,8 @@
 
 Bem-vindo(a) ao guia rápido de acompanhamento e resolução dos DESAFIOS JS EXPERT!
 
+> Dica do Wells: Tem uma visualização bem mais bonita desse readme usando o github pages logo aqui: [VISUALIZAR O GUIA NO GITHUB PAGES][ghpagesurl]
+
 ## Acompanhamento
 
 Aqui você tem acesso à lista atualizada de desafios e algumas dicas de qual módulo estudar.
@@ -36,7 +38,7 @@ Aqui você tem acesso à lista atualizada de desafios e algumas dicas de qual m�
 
 ---
 
-## Tudo que você precisa saber sobre os DESAFIOS JS EXPERT
+## Ajuda
 
 ### 1. O que são os desafios?
 
@@ -98,6 +100,7 @@ Cada desafio **funciona individualmente** e é atrelado a um módulo, então cas
 
 > Dica do Wells: Vale lembrar que mesmo os desafios sendo individuais, eles vão progredindo conforme o curso progride também, então fazer os desafios gradualmente e em ordem conforme você faz o curso pode ser uma boa pedida, até pra você sentir como foi a evolução do processo de criação desses desafios com o passar do tempo. :)
 
+[ghpagesurl]: https://wellssa.github.io/jsexpert-challenge-guide/
 [challenge01]: https://github.com/training-erickwendel/jsexpert-exercicio01-pokeapi
 [solution01]: https://github.com/training-erickwendel/jsexpert-exercicio01-pokeapi-solution
 [challenge02]: https://github.com/training-erickwendel/jsexpert-challenge02-lifecycle

@@ -38,7 +38,7 @@ Aqui você tem acesso à lista atualizada de desafios e algumas dicas de qual m�
 
 ---
 
-## Tudo que você precisa saber sobre os DESAFIOS JS EXPERT
+## Ajuda
 
 ### 1. O que são os desafios?
 
