@@ -11,8 +11,8 @@ Aqui você tem acesso à lista atualizada de desafios e algumas dicas de qual m�
 > Dica do Wells: Sinta-se livre pra criar um `fork` desse repositório e ir marcando os _checkbox_ abaixo! ;)
 
 - [ ] [DESAFIO JS EXPERT 01 - PokeAPI][challenge01]:
-      Crie uma API de criação de times que consome a PokeAPI para aplicar conceitos de **testes unitários** e de **integração** usando **mocks**, **stubs**, **spies** e mais. 100% de code coverage é o mínimo!
-  - **O que estudar:** _Módulo 02 - Javascript Testing_;
+      Crie uma API que retorna times pokemón consumindo PokeAPI com o objetivo de aplicar conceitos de **testes unitários** e de **integração** usando **mocks**, **stubs**, **spies** e mais. **100% de code coverage é o mínimo!**
+  - **O que estudar:** [_Módulo 02 - Javascript Testing_][module01];
   - **Solução oficial:** [DESAFIO JS EXPERT 01 - PokeAPI - Solution][solution01].
 
 ---
@@ -101,10 +101,23 @@ Cada desafio **funciona individualmente** e é atrelado a um módulo, então cas
 > Dica do Wells: Vale lembrar que mesmo os desafios sendo individuais, eles vão progredindo conforme o curso progride também, então fazer os desafios gradualmente e em ordem conforme você faz o curso pode ser uma boa pedida, até pra você sentir como foi a evolução do processo de criação desses desafios com o passar do tempo. :)
 
 [ghpagesurl]: https://wellssa.github.io/jsexpert-challenge-guide/
+
+<!--- Challenge 01 stuff -->
+
+[module01]: https://javascriptexpert.club.hotmart.com/lesson/K4k013YkeY/introducao-ao-capitulo
 [challenge01]: https://github.com/training-erickwendel/jsexpert-exercicio01-pokeapi
 [solution01]: https://github.com/training-erickwendel/jsexpert-exercicio01-pokeapi-solution
+
+<!--- Challenge 02 stuff -->
+
 [challenge02]: https://github.com/training-erickwendel/jsexpert-challenge02-lifecycle
 [solution02]: https://github.com/training-erickwendel/jsexpert-challenge02-lifecycle-solution
+
+<!--- Challenge 03 stuff -->
+
 [challenge03]: https://github.com/training-erickwendel/jsexpert-challenge03-terminal
 [solution03]: https://github.com/training-erickwendel/jsexpert-challenge03-terminal-solution
+
+<!--- Challenge 04 stuff -->
+
 [challenge04]: https://github.com/training-erickwendel/jsexpert-challenge04-datatypes
