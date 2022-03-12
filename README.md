@@ -1,3 +1,5 @@
+[ghpagesurl]: https://training-erickwendel.github.io/jsexpert-challenge-guide/
+
 # Guia de DESAFIOS JS EXPERT
 
 Bem-vindo(a) ao guia rápido de acompanhamento e resolução dos DESAFIOS JS EXPERT!
@@ -74,7 +76,10 @@ Então você pode focar em aplicar as estruturas e conceitos vistos em aula num 
 
 - **Code review de especialistas**
 
-  Quando um desafio é liberado, ele tem um prazo (mencionado no README do próprio desafio). Concluindo o desafio dentro do prazo estipulado, você tem o direito a um code review feito diretamente pelo Community Manager da EW.IT, ressaltando seus pontos fortes e possíveis pontos de melhoria, como o exemplo a seguir de um dos nossos primeiros challengers:
+  Quando um desafio é liberado, ele tem um prazo (mencionado no README do próprio desafio). Concluindo o desafio dentro do prazo estipulado, você tem o direito a um code review feito diretamente pelo Community Manager da EW.IT, ressaltando seus pontos fortes e possíveis pontos de melhoria, como os exemplos a seguir de um dos nossos primeiros challengers:
+
+  - [ThaSMorato | Correção do Desafio 01 - PokeAPI][studentreview]
+  - [ThaSMorato | Correção do Desafio 03 - Terminal][studentreview2]
 
 ### 4. Como eu submeto um desafio?
 
@@ -100,7 +105,8 @@ Cada desafio **funciona individualmente** e é atrelado a um módulo, então cas
 
 > Dica do Wells: Vale lembrar que mesmo os desafios sendo individuais, eles vão progredindo conforme o curso progride também, então resolver eles gradualmente e em ordem conforme você acompanha o curso pode ser uma boa pedida, até pra você sentir como foi a evolução do processo de criação desses desafios com o passar do tempo. :)
 
-[ghpagesurl]: https://training-erickwendel.github.io/jsexpert-challenge-guide/
+[studentreview]: https://github.com/ThaSMorato/jsexpert-exercicio01-pokeapi/issues/1
+[studentreview2]: https://github.com/ThaSMorato/jsexpert-challenge03-terminal/issues/1
 
 <!--- Challenge 01 stuff -->
 
