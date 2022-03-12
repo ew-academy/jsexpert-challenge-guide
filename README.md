@@ -10,7 +10,7 @@ Aqui você tem acesso à lista atualizada de desafios e algumas dicas de qual m�
 
 > Dica do Wells: Sinta-se livre pra criar um `fork` desse repositório e ir marcando os _checkbox_ abaixo! ;)
 
-- [ ] [DESAFIO JS EXPERT 01 - PokeAPI][challenge01]:
+- [ ] [ DESAFIO JS EXPERT 01 - PokeAPI][challenge01]:
       Crie uma API que retorna times pokemón consumindo PokeAPI com o objetivo de aplicar conceitos de **testes unitários** e de **integração** usando **mocks**, **stubs**, **spies** e mais. **100% de code coverage é o mínimo!**
   - **O que estudar:** [_Módulo 02 - Javascript Testing_][module01];
   - **Solução oficial:** [DESAFIO JS EXPERT 01 - PokeAPI - Solution][solution01].
@@ -19,21 +19,21 @@ Aqui você tem acesso à lista atualizada de desafios e algumas dicas de qual m�
 
 - [ ] [DESAFIO JS EXPERT 02 - Lifecycle][challenge02]:
       Aplique conceitos do ciclo de vida do Javascript para fazer os testes passarem, prevendo todo tipo de **comportamento maluco** e **coerções internas da linguagem**!
-  - **O que estudar:** _Módulo 03 - Conceitos fundamentais sobre o ciclo de vida do Javascript Parte 01_;
+  - **O que estudar:** [_Módulo 03 - Conceitos fundamentais sobre o ciclo de vida do Javascript Parte 01_][module02];
   - **Solução oficial:** [DESAFIO JS EXPERT 02 - Lifecycle - Solution][solution02].
 
 ---
 
 - [ ] [DESAFIO JS EXPERT 03 - Terminal][challenge03]:
       Descubra sua pretensão salarial em moedas estrangeiras usando **internacionalização** e conceitos de **construção de CLIs** - de quebra, claro, usando um pouco de **ECMAScript modules**!
-  - **O que estudar:** _Módulo 04 - Conceitos fundamentais sobre o ciclo de vida do Javascript Parte 02_;
+  - **O que estudar:** [_Módulo 04 - Conceitos fundamentais sobre o ciclo de vida do Javascript Parte 02_][module03];
   - **Solução oficial:** [DESAFIO JS EXPERT 03 - Terminal - Solution][solution03].
 
 ---
 
 - [ ] [DESAFIO JS EXPERT 04 - DataTypes][challenge04]:
       Implemente uma _Producer/Consumer Application_ para criar um sistema de recomendação manual de criptomoedas usando **estruturas Javascript tão sênior** que os exemplos em aula vêm diretamente do **código fonte do NodeJS\***!
-  - **O que estudar:** _Módulo 05 - Advanced Javascript Data Types_;
+  - **O que estudar:** [_Módulo 05 - Advanced Javascript Data Types_][module04];
   - **Solução oficial:** _liberação em breve_.
 
 ---
@@ -110,14 +110,17 @@ Cada desafio **funciona individualmente** e é atrelado a um módulo, então cas
 
 <!--- Challenge 02 stuff -->
 
+[module02]: https://javascriptexpert.club.hotmart.com/lesson/3eaYRg5Beg/introducao-ao-capitulo
 [challenge02]: https://github.com/training-erickwendel/jsexpert-challenge02-lifecycle
 [solution02]: https://github.com/training-erickwendel/jsexpert-challenge02-lifecycle-solution
 
 <!--- Challenge 03 stuff -->
 
+[module03]: https://javascriptexpert.club.hotmart.com/lesson/ROxErPLB4D/introducao-ao-capitulo
 [challenge03]: https://github.com/training-erickwendel/jsexpert-challenge03-terminal
 [solution03]: https://github.com/training-erickwendel/jsexpert-challenge03-terminal-solution
 
 <!--- Challenge 04 stuff -->
 
+[module04]: https://javascriptexpert.club.hotmart.com/lesson/gOpYqkXb4J/introducao-ao-capitulo
 [challenge04]: https://github.com/training-erickwendel/jsexpert-challenge04-datatypes
