@@ -10,7 +10,7 @@ Aqui você tem acesso à lista atualizada de desafios e algumas dicas de qual m�
 
 > Dica do Wells: Sinta-se livre pra criar um `fork` desse repositório e ir marcando os _checkbox_ abaixo! ;)
 
-- [ ] [ DESAFIO JS EXPERT 01 - PokeAPI][challenge01]:
+- [ ] [DESAFIO JS EXPERT 01 - PokeAPI][challenge01]:
       Crie uma API que retorna times pokemón consumindo PokeAPI com o objetivo de aplicar conceitos de **testes unitários** e de **integração** usando **mocks**, **stubs**, **spies** e mais. **100% de code coverage é o mínimo!**
   - **O que estudar:** [_Módulo 02 - Javascript Testing_][module01];
   - **Solução oficial:** [DESAFIO JS EXPERT 01 - PokeAPI - Solution][solution01].
@@ -44,7 +44,7 @@ Aqui você tem acesso à lista atualizada de desafios e algumas dicas de qual m�
 
 Os Desafios JS Expert são desafios de código elaborados para te ajudar a fixar o conteúdo visto em aula de maneira dinâmica e - adivinha só - desafiadora!
 
-Ou, nas palavras do Community Manager da EW.IT:
+Ou, nas palavras do **Community Manager** da **EW.IT**:
 
 > "A idéia é que cada desafio seja um projeto desafiador o suficiente para os alunos fixarem o conteúdo das aulas, mas guiado o suficiente para eles saberem o que fazer e onde procurar! - WellsSA.
 
