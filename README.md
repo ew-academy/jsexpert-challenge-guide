@@ -78,8 +78,8 @@ Então você pode focar em aplicar as estruturas e conceitos vistos em aula num 
 
   Quando um desafio é liberado, ele tem um prazo (mencionado no README do próprio desafio). Concluindo o desafio dentro do prazo estipulado, você tem o direito a um code review feito diretamente pelo Community Manager da EW.IT, ressaltando seus pontos fortes e possíveis pontos de melhoria, como os exemplos a seguir de um dos nossos primeiros challengers:
 
-  - [ThaSMorato | Correção do Desafio 01 - PokeAPI][studentreview]
-  - [ThaSMorato | Correção do Desafio 03 - Terminal][studentreview2]
+  - [ThaSMorato - Correção do Desafio 01 - PokeAPI][studentreview]
+  - [ThaSMorato - Correção do Desafio 03 - Terminal][studentreview2]
 
 ### 4. Como eu submeto um desafio?
 
