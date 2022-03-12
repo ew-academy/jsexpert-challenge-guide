@@ -11,7 +11,7 @@ Aqui você tem acesso à lista atualizada de desafios e algumas dicas de qual m�
 > Dica do Wells: Sinta-se livre pra criar um `fork` desse repositório e ir marcando os _checkbox_ abaixo! ;)
 
 - [ ] [DESAFIO JS EXPERT 01 - PokeAPI][challenge01]:
-      Crie uma API que retorna times pokemón consumindo PokeAPI com o objetivo de aplicar conceitos de **testes unitários** e de **integração** usando **mocks**, **stubs**, **spies** e mais. **100% de code coverage é o mínimo!**
+      Crie uma API que retorna times pokemón consumindo a PokeAPI com o objetivo de aplicar conceitos de **testes unitários** e de **integração** usando **mocks**, **stubs**, **spies** e mais. **100% de code coverage é o mínimo!**
   - **O que estudar:** [_Módulo 02 - Javascript Testing_][module01];
   - **Solução oficial:** [DESAFIO JS EXPERT 01 - PokeAPI - Solution][solution01].
 
