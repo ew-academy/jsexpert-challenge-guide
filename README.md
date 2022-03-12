@@ -48,7 +48,7 @@ Para ter o code review personalizado a submissão precisa ser dentro do prazo pr
 
 **🚨 IMPORTANTE:** pra a correção e o feedback personalizado, garanta que o seu repositório no GitHub **permite a criação de issues**
 
-> Dica do Wells: Na página do próprio repo mesmo lá no GitHub é só **marcar o checkbox de issues** lá em `Settings > Features`. o/
+> Dica do Wells: Na página do próprio repo mesmo lá no GitHub é só **marcar o checkbox de issues** em `Settings > Features`. o/
 
 ### 5. Como obter ajuda?
 
@@ -70,9 +70,36 @@ Aqui você tem acesso à lista atualizada de desafios e algumas dicas de qual m�
 
 # ---- em draft ainda ----
 
-- [ ] DESAFIO 01 - PokeAPI
+- [ ] [DESAFIO JS EXPERT 01 - PokeAPI][challenge01]:
+      Crie uma API de criação de times que consome a PokeAPI para aplicar conceitos de **testes unitários** e de **integração** usando **mocks**, **stubs**, **spies** e mais. 100% de code coverage é o mínimo!
+  - **O que estudar:** _Módulo 02 - Javascript Testing_;
+  - **Solução oficial:** [DESAFIO JS EXPERT 01 - PokeAPI - Solution][solution01].
 
-liberação do desafio
-Alunos fazem
-Dentro do prazo para obter as correções
-Code reviews detalhados
+---
+
+- [ ] [DESAFIO JS EXPERT 02 - Lifecycle][challenge02]:
+      Aplique conceitos do ciclo de vida do Javascript para fazer os testes passarem, prevendo todo tipo de **comportamento maluco** e **coerções internas da linguagem**!
+  - **O que estudar:** _Módulo 03 - Conceitos fundamentais sobre o ciclo de vida do Javascript Parte 01_;
+  - **Solução oficial:** [DESAFIO JS EXPERT 02 - Lifecycle - Solution][solution02].
+
+---
+
+- [ ] [DESAFIO JS EXPERT 03 - Terminal][challenge03]:
+      Descubra sua pretensão salarial em moedas estrangeiras usando **internacionalização** e conceitos de **construção de CLIs** - de quebra, claro, usando um pouco de **ECMAScript modules**!
+  - **O que estudar:** _Módulo 04 - Conceitos fundamentais sobre o ciclo de vida do Javascript Parte 02_;
+  - **Solução oficial:** [DESAFIO JS EXPERT 03 - Terminal - Solution][solution03].
+
+---
+
+- [ ] [DESAFIO JS EXPERT 04 - DataTypes][challenge04]:
+      Implemente uma _Producer/Consumer Application_ para criar um sistema de recomendação manual de criptomoedas usando **estruturas Javascript tão sênior** que os exemplos em aula vêm diretamente do **código fonte do NodeJS\***!
+  - **O que estudar:** _Módulo 05 - Advanced Javascript Data Types_;
+  - **Solução oficial:** _liberação em breve_.
+
+[challenge01]: https://github.com/training-erickwendel/jsexpert-exercicio01-pokeapi
+[solution01]: https://github.com/training-erickwendel/jsexpert-exercicio01-pokeapi-solution
+[challenge02]: https://github.com/training-erickwendel/jsexpert-challenge02-lifecycle
+[solution02]: https://github.com/training-erickwendel/jsexpert-challenge02-lifecycle-solution
+[challenge03]: https://github.com/training-erickwendel/jsexpert-challenge03-terminal
+[solution03]: https://github.com/training-erickwendel/jsexpert-challenge03-terminal-solution
+[challenge04]: https://github.com/training-erickwendel/jsexpert-challenge04-datatypes
