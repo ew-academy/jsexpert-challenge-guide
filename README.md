@@ -2,7 +2,7 @@
 
 Bem-vindo(a) ao guia rápido de acompanhamento e resolução dos DESAFIOS JS EXPERT!
 
-> Dica do Wells: Tem uma visualização bem mais bonita desse readme usando o github pages logo aqui: [VISUALIZAR O GUIA NO GITHUB PAGES][ghpagesurl]
+> Dica do Wells: Caso você esteja lendo o README.md no GitHub, saiba que tem uma visualização bem mais bonita desse readme usando o github pages logo aqui: [VISUALIZAR O GUIA NO GITHUB PAGES][ghpagesurl]
 
 ## Acompanhamento
 
