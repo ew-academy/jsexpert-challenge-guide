@@ -1,4 +1,30 @@
 [ghpagesurl]: https://wellssa.github.io/jsexpert-challenge-guide/
+[studentreview]: https://github.com/ThaSMorato/jsexpert-exercicio01-pokeapi/issues/1
+[studentreview2]: https://github.com/ThaSMorato/jsexpert-challenge03-terminal/issues/1
+
+<!--- Challenge 01 stuff -->
+
+[module01]: https://javascriptexpert.club.hotmart.com/lesson/K4k013YkeY/introducao-ao-capitulo
+[challenge01]: https://github.com/training-erickwendel/jsexpert-exercicio01-pokeapi
+[solution01]: https://github.com/training-erickwendel/jsexpert-exercicio01-pokeapi-solution
+
+<!--- Challenge 02 stuff -->
+
+[module02]: https://javascriptexpert.club.hotmart.com/lesson/3eaYRg5Beg/introducao-ao-capitulo
+[challenge02]: https://github.com/training-erickwendel/jsexpert-challenge02-lifecycle
+[solution02]: https://github.com/training-erickwendel/jsexpert-challenge02-lifecycle-solution
+
+<!--- Challenge 03 stuff -->
+
+[module03]: https://javascriptexpert.club.hotmart.com/lesson/ROxErPLB4D/introducao-ao-capitulo
+[challenge03]: https://github.com/training-erickwendel/jsexpert-challenge03-terminal
+[solution03]: https://github.com/training-erickwendel/jsexpert-challenge03-terminal-solution
+
+<!--- Challenge 04 stuff -->
+
+[module04]: https://javascriptexpert.club.hotmart.com/lesson/gOpYqkXb4J/introducao-ao-capitulo
+[challenge04]: https://github.com/training-erickwendel/jsexpert-challenge04-datatypes
+[solution04]: https://github.com/training-erickwendel/jsexpert-challenge04-datatypes-solution
 
 # Guia de DESAFIOS JS EXPERT
 
@@ -36,7 +62,7 @@ Aqui você tem acesso à lista atualizada de desafios e algumas dicas de qual m�
 - [ ] [DESAFIO JS EXPERT 04 - DataTypes][challenge04]:
       Implemente uma _Producer/Consumer Application_ para criar um sistema de recomendação manual de criptomoedas usando **estruturas Javascript tão sênior** que os exemplos em aula vêm diretamente do **código fonte do NodeJS\***!
   - **O que estudar:** [_Módulo 05 - Advanced Javascript Data Types_][module04];
-  - **Solução oficial:** _liberação em breve_.
+  - **Solução oficial:** [DESAFIO JS EXPERT 03 - Terminal - Solution][solution04].
 
 ---
 
@@ -104,29 +130,3 @@ Todo o ciclo de vida dos desafios acontece lá no discord, majoritariamente no c
 Cada desafio **funciona individualmente** e é atrelado a um módulo, então caso queira começar a partir do desafio mais recente para ter as correções no prazo ou mesmo começar do desafio de algum módulo que mais tenha te chamado atenção, fique à vontade pra fazer na ordem que desejar, com o tempo que tiver disponível! 😄
 
 > Dica do Wells: Vale lembrar que mesmo os desafios sendo individuais, eles vão progredindo conforme o curso progride também, então resolver eles gradualmente e em ordem conforme você acompanha o curso pode ser uma boa pedida, até pra você sentir como foi a evolução do processo de criação desses desafios com o passar do tempo. :)
-
-[studentreview]: https://github.com/ThaSMorato/jsexpert-exercicio01-pokeapi/issues/1
-[studentreview2]: https://github.com/ThaSMorato/jsexpert-challenge03-terminal/issues/1
-
-<!--- Challenge 01 stuff -->
-
-[module01]: https://javascriptexpert.club.hotmart.com/lesson/K4k013YkeY/introducao-ao-capitulo
-[challenge01]: https://github.com/training-erickwendel/jsexpert-exercicio01-pokeapi
-[solution01]: https://github.com/training-erickwendel/jsexpert-exercicio01-pokeapi-solution
-
-<!--- Challenge 02 stuff -->
-
-[module02]: https://javascriptexpert.club.hotmart.com/lesson/3eaYRg5Beg/introducao-ao-capitulo
-[challenge02]: https://github.com/training-erickwendel/jsexpert-challenge02-lifecycle
-[solution02]: https://github.com/training-erickwendel/jsexpert-challenge02-lifecycle-solution
-
-<!--- Challenge 03 stuff -->
-
-[module03]: https://javascriptexpert.club.hotmart.com/lesson/ROxErPLB4D/introducao-ao-capitulo
-[challenge03]: https://github.com/training-erickwendel/jsexpert-challenge03-terminal
-[solution03]: https://github.com/training-erickwendel/jsexpert-challenge03-terminal-solution
-
-<!--- Challenge 04 stuff -->
-
-[module04]: https://javascriptexpert.club.hotmart.com/lesson/gOpYqkXb4J/introducao-ao-capitulo
-[challenge04]: https://github.com/training-erickwendel/jsexpert-challenge04-datatypes
