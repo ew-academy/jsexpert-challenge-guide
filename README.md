@@ -69,7 +69,7 @@ Aqui você tem acesso à lista atualizada de desafios e algumas dicas de qual m�
 - [ ] [DESAFIO JS EXPERT 04 - DataTypes][challenge04]:
       Implemente uma _Producer/Consumer Application_ para criar um sistema de recomendação manual de criptomoedas usando **estruturas Javascript tão sênior** que os exemplos em aula vêm diretamente do **código fonte do NodeJS\***!
   - **O que estudar:** [_Módulo 05 - Advanced Javascript Data Types_][module04];
-  - **Solução oficial:** [DESAFIO JS EXPERT 03 - Terminal - Solution][solution04].
+  - **Solução oficial:** [DESAFIO JS EXPERT 04 - DataTypes - Solution][solution04].
 
 ---
 
