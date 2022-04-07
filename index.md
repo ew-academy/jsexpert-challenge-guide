@@ -26,6 +26,13 @@
 [challenge04]: https://github.com/training-erickwendel/jsexpert-challenge04-datatypes
 [solution04]: https://github.com/training-erickwendel/jsexpert-challenge04-datatypes-solution
 
+<!--- Challenge 05 stuff -->
+
+[module05]: https://javascriptexpert.club.hotmart.com/lesson/0Ovkkq1N4j/introducao-ao-capitulo
+[challenge05]: https://github.com/training-erickwendel/jsexpert-challenge05-regexp
+
+<!-- [solution05]: https://github.com/training-erickwendel/jsexpert-challenge05-regexp-solution -->
+
 # Guia de DESAFIOS JS EXPERT
 
 Bem-vindo(a) ao guia rápido de acompanhamento e resolução dos DESAFIOS JS EXPERT!
@@ -63,6 +70,13 @@ Aqui você tem acesso à lista atualizada de desafios e algumas dicas de qual m�
       Implemente uma _Producer/Consumer Application_ para criar um sistema de recomendação manual de criptomoedas usando **estruturas Javascript tão sênior** que os exemplos em aula vêm diretamente do **código fonte do NodeJS\***!
   - **O que estudar:** [_Módulo 05 - Advanced Javascript Data Types_][module04];
   - **Solução oficial:** [DESAFIO JS EXPERT 03 - Terminal - Solution][solution04].
+
+---
+
+- [ ] [DESAFIO JS EXPERT 05 - RegExp][challenge05]:
+      Implemente uma aplicação baseada em _Facade/Fluent API_ para criar um sistema de mineração de dados Legislativos usando **Expressões Regulares** e **TDD na prática**!
+  - **O que estudar:** [_Módulo 06 - Expressões Regulares - RegExp_][module05];
+  - **Solução oficial:** _liberação em breve_.
 
 ---
 
