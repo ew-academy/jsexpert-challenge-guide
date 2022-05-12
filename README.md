@@ -30,8 +30,13 @@
 
 [module05]: https://javascriptexpert.club.hotmart.com/lesson/0Ovkkq1N4j/introducao-ao-capitulo
 [challenge05]: https://github.com/training-erickwendel/jsexpert-challenge05-regexp
+[solution05]: https://github.com/training-erickwendel/jsexpert-challenge05-regexp-solution
 
-<!-- [solution05]: https://github.com/training-erickwendel/jsexpert-challenge05-regexp-solution -->
+<!--- Challenge 06 stuff -->
+
+<!-- [module06]: https://javascriptexpert.club.hotmart.com/lesson/0Ovkkq1N4j/introducao-ao-capitulo
+[challenge06]: https://github.com/training-erickwendel/jsexpert-challenge05-regexp
+[solution06]: https://github.com/training-erickwendel/jsexpert-challenge05-regexp-solution -->
 
 # Guia de DESAFIOS JS EXPERT
 
@@ -40,6 +45,10 @@ Bem-vindo(a) ao guia rápido de acompanhamento e resolução dos DESAFIOS JS EXP
 > Dica do Wells: Caso você esteja lendo o README.md no GitHub, saiba que tem uma visualização bem mais bonita desse readme usando o github pages logo aqui: [VISUALIZAR O GUIA NO GITHUB PAGES][ghpagesurl]
 
 ## Acompanhamento
+
+<!--
+> ⚠️ Importante: Finalize o [Desafio 05][challenge05] até _28/04/2022_ para ter acesso ao **Code Review Personalizado**!
+-->
 
 Aqui você tem acesso à lista atualizada de desafios e algumas dicas de qual módulo estudar.
 
@@ -76,9 +85,17 @@ Aqui você tem acesso à lista atualizada de desafios e algumas dicas de qual m�
 - [ ] [DESAFIO JS EXPERT 05 - RegExp][challenge05]:
       Implemente uma aplicação baseada em _Facade/Fluent API_ para criar um sistema de mineração de dados Legislativos usando **Expressões Regulares** e **TDD na prática**!
   - **O que estudar:** [_Módulo 06 - Expressões Regulares - RegExp_][module05];
-  - **Solução oficial:** _liberação em breve_.
+  - **Solução oficial:** [DESAFIO JS EXPERT 05 - RegExp - Solution][solution05].
 
 ---
+
+<!--
+- [ ] [DESAFIO JS EXPERT 06 - ???????][challenge06]:
+      Implemente uma aplicação baseada em _Facade/Fluent API_ para criar um sistema de mineração de dados Legislativos usando **Expressões Regulares** e **TDD na prática**!
+  - **O que estudar:** [_Módulo 07 - Expressões Regulares - RegExp_][module06];
+  - **Solução oficial:** _liberação em breve_.
+
+--- -->
 
 ## Ajuda
 
