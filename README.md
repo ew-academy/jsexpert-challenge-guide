@@ -34,6 +34,12 @@
 
 <!--- Challenge 06 stuff -->
 
+[module06]: https://javascriptexpert.club.hotmart.com/lesson/V4VrxEYV42/introducao-ao-capitulo
+[challenge06]: https://github.com/training-erickwendel/jsexpert-challenge06-patterns
+<!-- [solution06]: https://github.com/training-erickwendel/jsexpert-challenge05-regexp-solution -->
+
+<!--- Challenge 07 stuff -->
+
 <!-- [module06]: https://javascriptexpert.club.hotmart.com/lesson/0Ovkkq1N4j/introducao-ao-capitulo
 [challenge06]: https://github.com/training-erickwendel/jsexpert-challenge05-regexp
 [solution06]: https://github.com/training-erickwendel/jsexpert-challenge05-regexp-solution -->
@@ -89,8 +95,16 @@ Aqui você tem acesso à lista atualizada de desafios e algumas dicas de qual m�
 
 ---
 
+
+- [ ] [DESAFIO JS EXPERT 06 - Patterns][challenge06]:
+      Implemente uma aplicação para **Envio de mensagens em diferentes plataformas** usando o que há de melhor em termos de **Boas Práticas** e **Design Patterns Criacionais**!
+  - **O que estudar:** [_Módulo 07 -  - Design Patterns PT 01 - Best Practices and Creational Design Patterns_][module06];
+  - **Solução oficial:** _liberação em breve_.
+
+---
+
 <!--
-- [ ] [DESAFIO JS EXPERT 06 - ???????][challenge06]:
+- [ ] [DESAFIO JS EXPERT 07 - ???????][challenge06]:
       Implemente uma aplicação baseada em _Facade/Fluent API_ para criar um sistema de mineração de dados Legislativos usando **Expressões Regulares** e **TDD na prática**!
   - **O que estudar:** [_Módulo 07 - Expressões Regulares - RegExp_][module06];
   - **Solução oficial:** _liberação em breve_.
