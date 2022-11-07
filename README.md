@@ -1,4 +1,4 @@
-[ghpagesurl]: https://github.com/training-erickwendel/jsexpert-challenge-guide/
+[ghpagesurl]: https://training-erickwendel.github.io/jsexpert-challenge-guide/
 [studentreview]: https://github.com/ThaSMorato/jsexpert-exercicio01-pokeapi/issues/1
 [studentreview2]: https://github.com/ThaSMorato/jsexpert-challenge03-terminal/issues/1
 
@@ -36,6 +36,7 @@
 
 [module06]: https://javascriptexpert.club.hotmart.com/lesson/V4VrxEYV42/introducao-ao-capitulo
 [challenge06]: https://github.com/training-erickwendel/jsexpert-challenge06-patterns
+
 <!-- [solution06]: https://github.com/training-erickwendel/jsexpert-challenge05-regexp-solution -->
 
 <!--- Challenge 07 stuff -->
@@ -95,10 +96,9 @@ Aqui você tem acesso à lista atualizada de desafios e algumas dicas de qual m�
 
 ---
 
-
 - [ ] [DESAFIO JS EXPERT 06 - Patterns][challenge06]:
       Implemente uma aplicação para **Envio de mensagens em diferentes plataformas** usando o que há de melhor em termos de **Boas Práticas** e **Design Patterns Criacionais**!
-  - **O que estudar:** [_Módulo 07 -  - Design Patterns PT 01 - Best Practices and Creational Design Patterns_][module06];
+  - **O que estudar:** [_Módulo 07 - Design Patterns PT 01 - Best Practices and Creational Design Patterns_][module06];
   - **Solução oficial:** _liberação em breve_.
 
 ---
