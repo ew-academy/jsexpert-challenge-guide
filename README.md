@@ -98,7 +98,7 @@ Aqui você tem acesso à lista atualizada de desafios e algumas dicas de qual m�
 
 - [ ] [DESAFIO JS EXPERT 06 - Patterns][challenge06]:
       Implemente uma aplicação para **Envio de mensagens em diferentes plataformas** usando o que há de melhor em termos de **Boas Práticas** e **Design Patterns Criacionais**!
-  - **O que estudar:** [_Módulo 07 - - Design Patterns PT 01 - Best Practices and Creational Design Patterns_][module06];
+  - **O que estudar:** [_Módulo 07 - Design Patterns PT 01 - Best Practices and Creational Design Patterns_][module06];
   - **Solução oficial:** _liberação em breve_.
 
 ---
